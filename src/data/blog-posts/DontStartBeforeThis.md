@@ -1,8 +1,8 @@
 ---
-title: Installing on Linux From Zip File
-slug: Linux_x86_64_zip 
-publishDate: 20 July 2025
-description: Follow these steps to unzip & run DiscoProcs on you Linux system. 
+title: Don't Start Writing Your Novel Until You Do This 
+slug: DontStartBeforeThis 
+publishDate: 28 July 2026
+description: Writing a novel takes a while, so prepare yourself as best as you can. 
 ---
 ## Download the Linux X86/X64 Zip File
 You can download the zip file which contains everything you need to run DiscoProcs <a href="/downloads/DiscoProcs-LinuxX64.zip" download >here</a>.
