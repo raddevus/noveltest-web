@@ -14,7 +14,7 @@ If you don't make a plan, things from life will crowd in and it is likely you'll
 Because human nature causes us to work on what is important and because "writing a novel" will never seem important (compared to other things in you life), unless you make the work very important in your mind, then you will never complete the work.
 
 # Go All In
-<p>Writing a novel can be difficult (it doesn't have to be) so you must provide yourself with every advtage available.  For the time while you're writing, you must focus on writing 100%.  If you get distracted you will just waste time.  Take it seriously.
+<p>Writing a novel can be difficult (it doesn't have to be) so you must provide yourself with every advantage available.  For the time while you're writing, you must focus on writing 100%.  If you get distracted you will just waste time.  Take it seriously.
 </p>
 
 ## Reading A Book Provides Example
