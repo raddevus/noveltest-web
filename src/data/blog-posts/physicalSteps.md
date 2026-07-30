@@ -29,10 +29,14 @@ Immediately, the question arises: How do you "only write the scene"?  That leads
 2. Before writing anything, you must see the action taking place on the Movie-Screen of your mind.  
 
 ## Seeing The Action on the Movie-Screen of Your Mind
-What does that mean? It means that you imagine your character(s), the setting and exactly what is happening as if you are watching it happen in real life.
+What does that mean? It means that you imagine your character(s), the setting and exactly what is happening as if you are watching it happen on a movie screen.  Think about when you watch a scene in a movie, you cannot see all the internalization that goes on in a character, but you somehow know what they're feeling.  You must show action in your scenes / chapters like that.  
+
 Why?
+
+This is the same way that real life works.  You see an event happen and people react and even though you don't know what their internalizations are, you know basically how they're feeling (scared, upset, angry, happy, etc.)
+
 ### Key To Writing All Fiction
-This is the key to writing all fiction.  Most authors don't even know they're doing this, but the best ones are.  When you read the best writing the words transform from just words on the paper to images inside your head.  But, how do authors do that?
+Using the movie-screen of your mind is the key to writing all fiction.  Most authors don't even know they're doing this, but the best ones are.  When you read the best writing the words transform from just words on the paper to images inside your head.  But, how do authors do that?
 They've used the movie-screen of the mind method.
 
 Here's why it works.
@@ -53,9 +57,25 @@ To write fiction, you must "see it happening" as clearly as if you looked out th
 There is no other way.  Oh, well, there is another way.  You can not imagine the scene and then sit there writing a bunch of boring facts and non-story information that no one (including yourself) ever wants to read.  But, there is no other way that leads to writing good solid novel draft.
 
 ### This All Adds Up With the NovelTest Method
-It all adds up because now, every time you being a writing session you must already have the basic details of the scene / chapter that you are writing during the session.  If you do not, then do not begin a writing session.
+It all adds up because now, every time you begin a writing session you must already have the basic details of the scene / chapter that you are writing during the session.  If you do not, then do not begin a writing session.
 
-Form a basic sentence of the action that will take place in your scene
-Sit for a few moments while you see your main character or character taking some action.  Let it play out in your mind.  Make the character act it out and think about what she is thinking as she takes action.
-Finally, write down what you see
+### To Write, You Must Have a Basic Idea
+You must already have a very basic idea of what the scene / chapter will show.
+This is where the steps of creating the basic chapter outline of your novel becomes so important.
+That's because the third step here is to form a basic sentence which allows you to begin to see the sceen play out on the movie-screen of your mind.
+
+3. Form the basic sentence which describes the event or action or conflict that will occur in the scene.
+
+4. Sit for a few moments while you see your main character or character taking some action related to your scene idea.  Let it play out in your mind.  Make the character act it out and think about what she is thinking as she takes action.
+5. Finally, write down what you see
+
+For now, this is enough.  We'll talk more about how we'll follow these steps, in upcoming articles.
+
+## Your Task: Try Five Writing Sessions
+Here are the over all steps to writing your novel:
+1. Create your NovelTest Outline
+2. Set up five sessions when you will not do anything except write one scene / chapter.  Put these on your schedule.  Schedule them for the times of week and day that will work perfectly for you.  
+3. Examine your work habits - Are you keeping your schedule?  Are you writing during those sessions? 
+
+More to come.
 
