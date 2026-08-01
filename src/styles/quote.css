@@ -1,0 +1,25 @@
+.quote {
+  margin: 1.25rem 0;
+  padding: 1rem 1.25rem;
+  border-left: 4px solid #3b82f6;
+  background: #f8fafc;
+  border-radius: 10px;
+}
+
+.quote p {
+  margin: 0;
+  font-size: 1.05rem;
+  line-height: 1.6;
+  color: #0f172a;
+}
+
+.quote cite {
+  display: block;
+  margin-top: 0.75rem;
+  font-style: normal;
+  color: #475569;
+}
+
+.quote p::before { content: "“"; color: #3b82f6; }
+.quote p::after { content: "”"; color: #3b82f6; }
+
